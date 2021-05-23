@@ -1,1 +1,1 @@
-# Final-Project-Average-Joe-fitness
+# AverageJoeFitness
